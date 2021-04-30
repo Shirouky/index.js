@@ -1,1 +1,19 @@
-
+{
+  "status": "ok",
+  "totalResults": 33,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Championat.com"
+      },
+      "author": null,
+      "title": "Чемпион Запада НХЛ вылетел из плей-офф вслед за лучшим клубом Востока - Чемпионат",
+      "description": "В пятом матче серии первого раунда плей-офф «Колорадо Эвеланш» на выезде со счётом 5:1 разгромил «Калгари Флэймз» — победителя Западной конференции по итогам регулярного сезона.",
+      "url": "https://www.championat.com/hockey/news-3735181-chempion-zapada-nhl-vyletel-iz-plej-off-vsled-za-luchshim-klubom-vostoka.html",
+      "urlToImage": "https://img.championat.com/news2/social/d/84/3735181.jpg",
+      "publishedAt": "2019-04-20T04:53:56Z",
+      "content": "- « » 5:1 « » .\r\n «- » . «» « » (0-4).\r\n «» 2:1. , . «» , . .\r\n«» 4-1. «» « » «- » (3-2)."
+    }
+  ]
+}
